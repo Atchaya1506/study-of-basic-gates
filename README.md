@@ -1,5 +1,7 @@
 ### study-of-basic-gates
 
+## Date : 26/9/2024
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -83,6 +85,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 
  Developed by:ATCHAYA B
+ 
  RegisterNumber: 24900268
  
 **Logic symbol & Truthtable**
