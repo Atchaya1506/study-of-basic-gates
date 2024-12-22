@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Exp no : 1  study-of-basic-gates
 
 ## Date : 26/9/2024
 
